@@ -2,7 +2,7 @@
 
 M.S. Student at **USTC** · **Data Darkness Lab (DDL)**
 
-**Graph Foundation Models · Efficient Learning & Inference · AI Systems**
+**Post-training · Graph4LLM · Efficient Learning & Inference**
 
 [![Website](https://img.shields.io/badge/Website-ability66.github.io-1F5F74?style=flat-square&logo=googlechrome&logoColor=white)](https://ability66.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=vE0PenEAAAAJ&hl=zh-CN)
@@ -15,13 +15,13 @@ M.S. Student at **USTC** · **Data Darkness Lab (DDL)**
 
 ## About Me
 
-I'm a master's student at **USTC** and a member of the **Data Darkness Lab (DDL)**, advised by [**Prof. Xike Xie**](https://staff.ustc.edu.cn/~xkxie/). I work on Graph Foundation Models (GFMs), efficient learning and inference, and practical AI systems—from modeling ideas to CUDA-accelerated implementations.
+I'm a master's student at **USTC** and a member of the **Data Darkness Lab (DDL)**, advised by [**Prof. Xike Xie**](https://staff.ustc.edu.cn/~xkxie/). I am currently interested in **post-training** and **Graph4LLM**, with an emphasis on model reasoning, adaptation, structured knowledge, and efficient learning and inference.
 
 <div align="center">
 
-![GFM](https://img.shields.io/badge/Graph_Foundation_Models-1F5F74?style=flat-square)
+![Post-training](https://img.shields.io/badge/Post--training-1F5F74?style=flat-square)
+![Graph4LLM](https://img.shields.io/badge/Graph4LLM-5B647A?style=flat-square)
 ![Efficient Learning](https://img.shields.io/badge/Efficient_Learning_%26_Inference-4B6470?style=flat-square)
-![AI Systems](https://img.shields.io/badge/AI_Systems-526D5B?style=flat-square)
 ![ICPC](https://img.shields.io/badge/ICPC-Medalist-8B6F47?style=flat-square)
 
 </div>
@@ -30,9 +30,9 @@ I'm a master's student at **USTC** and a member of the **Data Darkness Lab (DDL)
 
 | | Direction | What I care about |
 | :---: | --- | --- |
-| **01** | **Graph Foundation Models** | Transferable models that generalize across graph domains, structures, and downstream tasks |
-| **02** | **Efficient Learning & Inference** | Reducing latency, memory, and computational overhead from algorithms to implementation |
-| **03** | **AI Systems** | Turning research ideas into reliable, scalable, and high-performance software |
+| **01** | **Post-training** | Improving reasoning, alignment, and adaptation after pretraining through data, optimization, and feedback |
+| **02** | **Graph4LLM** | Bringing structured and relational knowledge into language-model reasoning, retrieval, and memory |
+| **03** | **Efficient Learning & Inference** | Reducing latency, memory, and computational overhead from algorithms to implementation |
 
 ## Latest News
 
@@ -139,7 +139,7 @@ R-GFM is a scale-adaptive and geometry-aware GFM for transferable representation
 
 ### Let's Connect
 
-Open to research discussions and collaborations on GFMs, efficient learning, and AI systems.
+Open to research discussions and collaborations on post-training, Graph4LLM, and efficient AI.
 
 <!-- Add your preferred public email here if desired. -->
 
