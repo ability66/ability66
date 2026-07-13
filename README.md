@@ -1,15 +1,15 @@
 <div align="center">
 
-![Header](./assets/profile-header.svg)
+## Haokun Liu
 
-<sub>M.S. Student at USTC · Foundation Models · Efficient Inference · AI Systems</sub>
+M.S. Student at **USTC** · **Data Darkness Lab (DDL)**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Learning+transferable+representations;Building+efficient+AI+systems;Turning+research+into+working+code)
+**Graph Foundation Models · Efficient Learning & Inference · AI Systems**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ability66-181717?style=for-the-badge&logo=github)](https://github.com/ability66)
-[![Website](https://img.shields.io/badge/Website-ability66.github.io-C4F53F?style=for-the-badge&logo=googlechrome&logoColor=11130A)](https://ability66.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=vE0PenEAAAAJ&hl=zh-CN)
-[![R-GFM](https://img.shields.io/badge/ICML_2026-R--GFM-A855F7?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.09993)
+[![Website](https://img.shields.io/badge/Website-ability66.github.io-1F5F74?style=flat-square&logo=googlechrome&logoColor=white)](https://ability66.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=vE0PenEAAAAJ&hl=zh-CN)
+[![GitHub](https://img.shields.io/badge/GitHub-ability66-24292F?style=flat-square&logo=github)](https://github.com/ability66)
+[![R-GFM](https://img.shields.io/badge/ICML_2026-R--GFM-8B1E3F?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.09993)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ability66&label=Profile+views&color=6D28D9&style=flat-square)
 
@@ -17,15 +17,14 @@
 
 ## About Me
 
-Hi, I'm **Haokun Liu**, a master's student at **USTC**. I work on foundation models and efficient learning systems, with an interest in reusable representations, cross-domain generalization, and efficient implementation from algorithms to systems.
+Hi, I'm **Haokun Liu**, a master's student at **USTC** and a member of the **Data Darkness Lab (DDL)**. I work on Graph Foundation Models (GFMs), efficient learning and inference, and practical AI systems—from modeling ideas to CUDA-accelerated implementations.
 
 <div align="center">
 
-![Foundation Models](https://img.shields.io/badge/Foundation_Models-6D28D9?style=flat-square)
-![Efficient Inference](https://img.shields.io/badge/Efficient_Inference-0891B2?style=flat-square)
-![Representation Learning](https://img.shields.io/badge/Representation_Learning-2563EB?style=flat-square)
-![Mixture of Experts](https://img.shields.io/badge/Mixture_of_Experts-7C3AED?style=flat-square)
-![AI Systems](https://img.shields.io/badge/Scalable_AI_Systems-0F766E?style=flat-square)
+![GFM](https://img.shields.io/badge/Graph_Foundation_Models-1F5F74?style=flat-square)
+![Efficient Learning](https://img.shields.io/badge/Efficient_Learning_%26_Inference-4B6470?style=flat-square)
+![AI Systems](https://img.shields.io/badge/AI_Systems-526D5B?style=flat-square)
+![ICPC](https://img.shields.io/badge/ICPC-Medalist-8B6F47?style=flat-square)
 
 </div>
 
@@ -33,15 +32,19 @@ Hi, I'm **Haokun Liu**, a master's student at **USTC**. I work on foundation mod
 
 | | Direction | What I care about |
 | :---: | --- | --- |
-| **01** | **Foundation Models** | Transferable models that generalize across data, domains, and downstream tasks |
-| **02** | **Efficient Inference** | Reducing latency, memory, and computational overhead in modern AI workloads |
-| **03** | **Representation Learning** | Learning robust and reusable representations from heterogeneous structures |
-| **04** | **Scalable AI Systems** | Turning research ideas into practical, high-performance implementations |
+| **01** | **Graph Foundation Models** | Transferable models that generalize across graph domains, structures, and downstream tasks |
+| **02** | **Efficient Learning & Inference** | Reducing latency, memory, and computational overhead from algorithms to implementation |
+| **03** | **AI Systems** | Turning research ideas into reliable, scalable, and high-performance software |
 
 ## Latest News
 
 - **May 2026** - Our work **R-GFM** was accepted to **ICML 2026**.
 - **May 2026** - The paper and reference implementation of R-GFM are publicly available.
+
+## Honors
+
+- **ICPC Asia Regional Contests** — Multiple Bronze Medals
+- **ICPC East Continent Final (EC-Final)** — Consecutive Bronze Medals
 
 ## Featured Publication
 
@@ -56,7 +59,7 @@ Hi, I'm **Haokun Liu**, a master's student at **USTC**. I work on foundation mod
 
 **Haokun Liu**, Zezhong Ding, Xike Xie
 
-R-GFM is a scale-adaptive and geometry-aware foundation model for learning transferable representations across heterogeneous domains and downstream tasks. It combines multi-scale Graph-of-Graphs modeling with mixture-of-Riemannian-experts routing, achieving state-of-the-art results with up to **49% relative improvement**.
+R-GFM is a scale-adaptive and geometry-aware GFM for transferable representation learning across heterogeneous graph domains. It combines multi-scale modeling with mixture-of-Riemannian-experts routing and achieves state-of-the-art results with up to **49% relative improvement**.
 
 </td>
 <td width="28%" align="center" valign="middle">
@@ -95,7 +98,7 @@ R-GFM is a scale-adaptive and geometry-aware foundation model for learning trans
 
 | Project | Description | Stack |
 | --- | --- | :---: |
-| [**R-GFM**](https://github.com/USTC-DataDarknessLab/R-GFM) | Transferable foundation models with geometry-aware expert routing and CUDA-accelerated learning pipelines | `Python` `PyTorch` `CUDA` |
+| [**R-GFM**](https://github.com/USTC-DataDarknessLab/R-GFM) | Geometry-aware GFMs with multi-scale expert routing and CUDA-accelerated learning pipelines | `Python` `PyTorch` `CUDA` |
 | [**mineru-local-orchestrator**](https://github.com/ability66/mineru-local-orchestrator) | Local orchestration for document-processing workloads | `Python` `Systems` |
 | [**VLM-ocr**](https://github.com/ability66/VLM-ocr) | OCR and document understanding with vision-language models | `Python` `VLM` |
 | [**Server-Watcher**](https://github.com/ability66/Server-Watcher) | Lightweight monitoring utilities for servers and compute workloads | `Python` `Monitoring` |
@@ -104,12 +107,11 @@ R-GFM is a scale-adaptive and geometry-aware foundation model for learning trans
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-547B21?style=flat-square&logo=nvidia&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white)
 
 </div>
 
@@ -137,10 +139,10 @@ R-GFM is a scale-adaptive and geometry-aware foundation model for learning trans
 
 ### Let's Connect
 
-Open to research discussions and collaborations on foundation models and efficient AI.
+Open to research discussions and collaborations on GFMs, efficient learning, and AI systems.
 
 <!-- Add your preferred public email here if desired. -->
 
-<sub>Research · Engineering · Open Source</sub>
+<sub>USTC · Data Darkness Lab · Research & Engineering</sub>
 
 </div>
