@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Learning+transferable+representations;Building+efficient+AI+systems;Turning+research+into+working+code)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ability66-181717?style=for-the-badge&logo=github)](https://github.com/ability66)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?q=%22Learning+Graph+Foundation+Models+on+Riemannian+Graph-of-Graphs%22)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=vE0PenEAAAAJ&hl=zh-CN)
 [![R-GFM](https://img.shields.io/badge/ICML_2026-R--GFM-A855F7?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.09993)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ability66&label=Profile+views&color=6D28D9&style=flat-square)
@@ -138,7 +138,6 @@ R-GFM is a scale-adaptive and geometry-aware foundation model for learning trans
 
 Open to research discussions and collaborations on foundation models and efficient AI.
 
-<!-- Replace the Scholar search URL above with your verified Google Scholar profile URL. -->
 <!-- Add your preferred public email here if desired. -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00A6C7,50:3730A3,100:0B1020&height=120&section=footer)
