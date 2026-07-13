@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+  <title id="title">AI Research and Systems</title>
+  <desc id="desc">A compact gradient banner for the ability66 GitHub profile.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.52" stop-color="#3730a3"/>
+      <stop offset="1" stop-color="#00a6c7"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.03"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.04"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" rx="18" fill="url(#background)"/>
+  <circle cx="105" cy="18" r="120" fill="#7c3aed" opacity="0.12"/>
+  <circle cx="1090" cy="150" r="145" fill="#22d3ee" opacity="0.10"/>
+  <path d="M0 142 C190 108 340 174 525 143 C735 108 875 166 1200 119 L1200 180 L0 180 Z" fill="url(#wave)"/>
+  <text x="600" y="76" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="0.5">AI Research &amp; Systems</text>
+  <text x="600" y="108" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="1.4">FOUNDATION MODELS · EFFICIENT INFERENCE · AI SYSTEMS</text>
+</svg>
