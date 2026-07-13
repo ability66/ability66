@@ -110,14 +110,6 @@ R-GFM is a scale-adaptive and geometry-aware foundation model for learning trans
 
 </div>
 
-## GitHub at a Glance
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ability66&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=7D8590&icon_color=7C3AED&ring_color=0891B2)
-
-</div>
-
 <div align="center">
 
 ### Let's Connect
