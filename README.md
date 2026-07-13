@@ -1,20 +1,22 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:3730A3,100:00A6C7&height=230&section=header&text=Haokun%20Liu&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Foundation%20Models%20%7C%20Efficient%20Inference%20%7C%20AI%20Systems&descAlignY=56&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:3730A3,100:00A6C7&height=165&section=header&text=AI%20Research%20%26%20Systems&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36)
 
-### M.S. Student at the University of Science and Technology of China
+<sub>M.S. Student at USTC · Foundation Models · Efficient Inference · AI Systems</sub>
 
-Building **scalable, generalizable foundation models** and **efficient AI systems**.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Learning+transferable+representations;Building+efficient+AI+systems;Turning+research+into+working+code)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ability66-181717?style=for-the-badge&logo=github)](https://github.com/ability66)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?q=%22Learning+Graph+Foundation+Models+on+Riemannian+Graph-of-Graphs%22)
 [![R-GFM](https://img.shields.io/badge/ICML_2026-R--GFM-A855F7?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.09993)
 
+![Profile Views](https://komarev.com/ghpvc/?username=ability66&label=Profile+views&color=6D28D9&style=flat-square)
+
 </div>
 
 ## About Me
 
-I am a master's student at **USTC**, working on foundation models and efficient learning systems. My research explores how models can learn reusable representations, generalize across heterogeneous domains and tasks, and run more efficiently from algorithms to implementation.
+Hi, I'm **Haokun Liu**, a master's student at **USTC**. I work on foundation models and efficient learning systems, with an interest in reusable representations, cross-domain generalization, and efficient implementation from algorithms to systems.
 
 <div align="center">
 
@@ -110,6 +112,26 @@ R-GFM is a scale-adaptive and geometry-aware foundation model for learning trans
 
 </div>
 
+## Contributions in Motion
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ability66/ability66/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ability66/ability66/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ability66/ability66/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+## Development Rhythm
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ability66&theme=transparent&hide_border=true&ring=7C3AED&fire=0891B2&currStreakLabel=7C3AED)
+
+</div>
+
 <div align="center">
 
 ### Let's Connect
@@ -122,4 +144,3 @@ Open to research discussions and collaborations on foundation models and efficie
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00A6C7,50:3730A3,100:0B1020&height=120&section=footer)
 
 </div>
-
