@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:3730A3,100:00A6C7&height=165&section=header&text=AI%20Research%20%26%20Systems&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36)
+![Header](./assets/profile-header.svg)
 
 <sub>M.S. Student at USTC · Foundation Models · Efficient Inference · AI Systems</sub>
 
@@ -140,6 +140,6 @@ Open to research discussions and collaborations on foundation models and efficie
 
 <!-- Add your preferred public email here if desired. -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00A6C7,50:3730A3,100:0B1020&height=120&section=footer)
+<sub>Research · Engineering · Open Source</sub>
 
 </div>
