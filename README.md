@@ -1,7 +1,5 @@
 <div align="center">
 
-## Haokun Liu
-
 M.S. Student at **USTC** · **Data Darkness Lab (DDL)**
 
 **Graph Foundation Models · Efficient Learning & Inference · AI Systems**
@@ -17,7 +15,7 @@ M.S. Student at **USTC** · **Data Darkness Lab (DDL)**
 
 ## About Me
 
-Hi, I'm **Haokun Liu**, a master's student at **USTC** and a member of the **Data Darkness Lab (DDL)**. I work on Graph Foundation Models (GFMs), efficient learning and inference, and practical AI systems—from modeling ideas to CUDA-accelerated implementations.
+I'm a master's student at **USTC** and a member of the **Data Darkness Lab (DDL)**, advised by [**Prof. Xike Xie**](https://staff.ustc.edu.cn/~xkxie/). I work on Graph Foundation Models (GFMs), efficient learning and inference, and practical AI systems—from modeling ideas to CUDA-accelerated implementations.
 
 <div align="center">
 
@@ -43,8 +41,10 @@ Hi, I'm **Haokun Liu**, a master's student at **USTC** and a member of the **Dat
 
 ## Honors
 
-- **ICPC Asia Regional Contests** — Multiple Bronze Medals
-- **ICPC East Continent Final (EC-Final)** — Consecutive Bronze Medals
+- **ICPC Asia Regional Contests — Multiple Bronze Medals**  
+  Medalist across multiple regional contests, with sustained experience in team-based algorithm design, implementation, and on-site problem solving.
+- **ICPC East Continent Final (EC-Final) — Consecutive Bronze Medals**  
+  Earned bronze medals in consecutive EC-Final appearances against leading collegiate programming teams across East Asia.
 
 ## Featured Publication
 
